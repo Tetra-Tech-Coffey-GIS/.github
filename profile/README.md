@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We are the Tetra Tech Coffey GIS Team. This is a repository for various coding projects.
 <!--
 
 **Here are some ideas to get you started:**
